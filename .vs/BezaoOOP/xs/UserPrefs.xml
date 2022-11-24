@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4E7D20F0-1A66-4DFD-9442-E6B55D420AB2}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BezaoOOP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="LearningPolymorphism.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="22" Column="63" />
+      <File FileName="LearningAbstractClass.cs" Line="1" Column="1" />
+      <File FileName="LearningInterfaces.cs" Line="17" Column="40" />
+      <File FileName="StoreItem.cs" Line="37" Column="23" />
+      <File FileName="LearningInheritance.cs" Line="12" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BezaoOOP" expanded="True">
+            <Node name="BezaoOOP" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

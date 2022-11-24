@@ -8,26 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ogubuike Alexandra\\.nuget\\packages\\": {}
+    "/Users/mac/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ogubuike Alexandra\\source\\repos\\BezaoOOP\\BezaoOOP.csproj",
+      "projectUniqueName": "/Users/mac/Desktop/My-Github folders/BezaoOOP/BezaoOOP.csproj",
       "projectName": "BezaoOOP",
-      "projectPath": "C:\\Users\\Ogubuike Alexandra\\source\\repos\\BezaoOOP\\BezaoOOP.csproj",
-      "packagesPath": "C:\\Users\\Ogubuike Alexandra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ogubuike Alexandra\\source\\repos\\BezaoOOP\\obj\\",
+      "projectPath": "/Users/mac/Desktop/My-Github folders/BezaoOOP/BezaoOOP.csproj",
+      "packagesPath": "/Users/mac/.nuget/packages/",
+      "outputPath": "/Users/mac/Desktop/My-Github folders/BezaoOOP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ogubuike Alexandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/mac/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,7 +50,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.111\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
